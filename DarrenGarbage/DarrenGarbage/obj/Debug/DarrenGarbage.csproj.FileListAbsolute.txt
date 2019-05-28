@@ -1,0 +1,6 @@
+C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.csprojResolveAssemblyReference.cache
+C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\bin\Debug\DarrenGarbage.exe.config
+C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\bin\Debug\DarrenGarbage.exe
+C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\bin\Debug\DarrenGarbage.pdb
+C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.exe
+C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.pdb
