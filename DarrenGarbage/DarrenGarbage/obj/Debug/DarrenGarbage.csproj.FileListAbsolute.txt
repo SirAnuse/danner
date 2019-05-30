@@ -4,3 +4,14 @@ C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\bin
 C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\bin\Debug\DarrenGarbage.pdb
 C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.exe
 C:\Users\DEV0003\Documents\SharpDevelop Projects\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.pdb
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\bin\Debug\DarrenGarbage.exe.config
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\bin\Debug\DarrenGarbage.exe
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\bin\Debug\DarrenGarbage.pdb
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.csprojAssemblyReference.cache
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.exe
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.pdb
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\bin\Debug\Colorful.Console.dll
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\bin\Debug\NAudio.dll
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\bin\Debug\NAudio.xml
+C:\Users\Jesus\Desktop\ea sports its in the game\DarrenGarbage\DarrenGarbage\obj\Debug\DarrenGarbage.csproj.CopyComplete

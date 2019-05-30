@@ -7,24 +7,17 @@
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
+using DarrenGarbage.Screens;
 
 namespace DarrenGarbage
 {
 	class Program
 	{
+        public const string VERSION = "0.0.1";
 		public static void Main(string[] args)
-		{
-			string menu = " ______   ___  ______ ______  _____  _   _ \n" +
-						  " |  _  \\ / _ \\ | ___ \\| ___ \\|  ___|| \\ | |\n" +
-						  " | | | |/ /_\\ \\| |_/ /| |_/ /| |__  |  \\| |\n" +
-						  " | | | ||  _  ||    / |    / |  __| | . ` |\n" +
-						  " | |/ / | | | || |\\ \\ | |\\ \\ | |___ | |\\  |\n" +
-				" |___/  \\_| |_/\\_| \\_|\\_| \\_|\\____/ \\_| \\_/\n";
-
-                                          
-			string input = Inputs.MenuInput(menu, new string[]{ "Play", "Options", "Exit" }, true);
-			
-			Console.WriteLine(input);
+        {
+            Screen.LoadScreens();
+            Screen.GoToScreen("MAIN_MENU");
 			
 			Console.ReadKey(true);
 		}
